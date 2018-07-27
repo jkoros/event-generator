@@ -2,8 +2,13 @@
 Event generator for nu_e + d
 
 # Getting Started
-probably just need to give versions of things I used, so I should find out what those are
-also maybe installing beautiful soup
+Versions used for web scraper: 
+Python 2.7
+Besutiful Soup 4 (install instructions and documentation: https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup)
+
+Versions used:
+C++ 11
+GCC 4.4
+ROOT 5
 
 # Usage
-idk briefly describe what each step does and how to use it? it's all pretty well documented in the files already tho
