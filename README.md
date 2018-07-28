@@ -8,9 +8,12 @@ Python 2.7
 
 Beautiful Soup 4 (install instructions and documentation: https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup)
 
-Versions used:
+Versions used for everything else:
+
 C++ 11
+
 GCC 4.4
+
 ROOT 5
 
 # Usage
